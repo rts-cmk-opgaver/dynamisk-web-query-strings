@@ -34,7 +34,7 @@ Få funktionaliteten med at markere en favorit til at virke. Hvis du markerer en
 Du afleverer ved at lave et **pull-request** hvor du sætter din lærer på som *reviewer*.
 
 ### **Feedback**: 
-Din lærer kigger dit pull-request igennem, og hvis du blot får et godkendt/approved tilbage betyder det, at du har løst opgaven ligesom det var forventet. 
+Din lærer kigger dit pull-request igennem, og hvis du blot får et godkendt/approved tilbage betyder det, at du har løst opgaven lige som det var forventet. 
 
 Hvis din lærer sender et godkendt/approved tilbage, men også tilknytter en kommentar, er det måske for at gøre opmærksom på en detalje du let kan forbedre. Du behøver ikke at lave en ny pull request.
 
