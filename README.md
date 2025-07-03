@@ -1,4 +1,4 @@
-**Dynamisk web**
+**DYNAMISK WEB**
 # Introduktion til url-parametre
 
 Du skal lave en "mikro-air-bnb-klon" med otte destinationer i en listevisning, samt en detaljevisning om hver destination(genereret automatisk).
